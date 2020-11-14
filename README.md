@@ -1,2 +1,2 @@
 # my-first-blog
-*taken from Django Girls*
+taken from [Django Girls](https://djangogirls.org/) learning tutorials.
